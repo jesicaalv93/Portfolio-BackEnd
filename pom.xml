@@ -12,7 +12,7 @@
     <artifactId>jesi</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>BackEnd-ArgPrograma</name>
-    <description>Portfolio de MGB</description>
+    <description>Portfolio de Jesica Alvarez</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
