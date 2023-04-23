@@ -32,7 +32,7 @@ public class SExperiencia {
      }
      
      public void save(Experiencia expe){
-         rExperiencia.save(expe);
+         rExperiencia.save (expe);
      }
      
      public void delete(int id){
